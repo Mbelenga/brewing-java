@@ -12,5 +12,21 @@ I'm using this space to:
 
 Whether you're also learning Java or just peeking in, feel free to explore, fork, or leave suggestions!
 
-## 📂 Folder Structure
 
+## 🛠️ Tools I'm Using
+
+- Java 21 (OpenJDK)
+- IntelliJ IDEA Community Edition
+- Terminal (for compiling and running)
+- Git & GitHub
+
+## ✅ Goals
+
+- [x] Set up Java environment
+- [ ] Understand basic Java syntax
+- [ ] Write object-oriented code
+- [ ] Build small Java projects
+
+---
+
+**Made with ☕ and curiosity.**
