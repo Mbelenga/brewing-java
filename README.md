@@ -23,7 +23,7 @@ Whether you're also learning Java or just peeking in, feel free to explore, fork
 ## ✅ Goals
 
 - [x] Set up Java environment
-- [ ] Understand basic Java syntax
+- [x] Understand basic Java syntax
 - [ ] Write object-oriented code
 - [ ] Build small Java projects
 
