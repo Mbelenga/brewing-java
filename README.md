@@ -19,6 +19,7 @@ Whether you're also learning Java or just peeking in, feel free to explore, fork
 - IntelliJ IDEA Community Edition
 - Terminal (for compiling and running)
 - Git & GitHub
+- vs code
 
 ## ✅ Goals
 
